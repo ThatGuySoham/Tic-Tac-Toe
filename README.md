@@ -69,3 +69,14 @@ Highlight winning lines or cells for better visual feedback.
 Language: C++
 
 Platform: Console-based, cross-platform (works on Windows, macOS, Linux)
+
+## 🏁 Getting Started
+
+Simply clone the repository and compile with your favorite C++ compiler to start playing!
+
+```
+git clone <repository-url>
+cd tic-tac-toe
+g++ tic_tac_toe.cpp -o tic_tac_toe
+./tic_tac_toe
+```
